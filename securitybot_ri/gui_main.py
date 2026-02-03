@@ -2,6 +2,7 @@
 # tkinter is for the current GUI
 import tkinter as tk
 import random
+from main import DIRECTIONS, HISTORY_FILE
 
 # Creating the main Window
 
